@@ -6,7 +6,8 @@
 body{
     padding: 0;
     margin: 0;
-    min-width: 1300px;
+    overflow-x: hidden;
+    
 
 }
 
@@ -17,13 +18,14 @@ a {
 }
 
 .header {
-    width: 1300px;
+    
     width: 100%;
     background-size: cover;
     height: 567px;
     background-image: url(../images/layer.png);
     display: flex;
     position: relative;
+    overflow-x: hidden;
 }
 
 .rect15 {
@@ -446,6 +448,7 @@ a {
     background-image: url(../images/Layer\ 32.png);
     position: relative;
     text-align: center;
+    
     
 }
 
