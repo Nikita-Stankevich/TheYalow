@@ -26,7 +26,12 @@ a {
     display: flex;
     position: relative;
     overflow-x: hidden;
+
 }
+
+/* .wrap {
+    position: static;
+} */
 
 .rect15 {
     width: 1003px;
@@ -149,7 +154,7 @@ a {
     width: 1000px;
     height: 326px;
     /* background-color: #ff0000; */
-    border: 3px solid #ff0000;
+    /* border: 3px solid #ff0000; */
     position: absolute;
     top: 165px;
     left: 152px;
@@ -169,7 +174,7 @@ a {
     width: 571px;
     height: 315px;
     /* background-color: #ff0000; */
-    border: 3px solid #0000ff;
+    /* border: 3px solid #0000ff; */
     margin-top: 2px;
     margin-left: 2px;
     position: absolute;
